@@ -1,0 +1,5 @@
+const card = document.getElementById('card')
+const titles = document.getElementById('title')
+const search = document.getElementById('search')
+const enviar = document.getElementById('buscar')
+const notElements = document.getElementById('error')
